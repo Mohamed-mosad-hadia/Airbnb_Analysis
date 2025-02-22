@@ -1,0 +1,23 @@
+--------------------------------------------  Information about the data --------------------------------------------------------------
+['last review']  is datetime type 
+['reviews per month'] The average number of reviews the listing receives per month
+['review rate number'] dtype: float64
+['calculated host listings count'] dtype: float64
+['availability 365'] The availability of the listing x days in the future as determined by the calendar.
+['house_rules']  have  51 % null values 
+['license'] have mixed datatype and 100%  have null values 
+
+-------------------------------------------------check List-----------------------------------------------------------------------------------
+1-deleting redundant columns . 
+2-renaming the columns . 
+3-dropping duplicates . 
+4-Cleaning individual columns .
+5-Remove The NAN values from the dataset .
+6- check for some more Transformations .
+7-Drop Column ['license'] becuse it has 100% Null values .
+
+--------------------------------------------        The steps to cleaning the data  --------------------------------------------------------------
+
+1- [price column ]  is object type     ==> need cleaning 
+2- [service fee]  is object type     ==> need cleaning to float
+
