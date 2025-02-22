@@ -18,7 +18,6 @@ Want to understand the dataset better? Check out the **[Data Dictionary](https:/
 ## 🚀 Project Goals and Inspiration
 This dataset is designed for **data cleaning practice** with the following key focus areas:
 - 🛠️ **Handling Missing Values** – Detect and fill gaps in the dataset.
-- 📈 **Handling Outliers** – Identify and manage extreme values.
 - 🔍 **Handling Inconsistent Data** – Standardize and normalize records.
 - 📊 **Data Visualization** – Discover patterns and trends using visual insights.
 - 📑 **Data Analysis** – Extract meaningful insights, such as:
