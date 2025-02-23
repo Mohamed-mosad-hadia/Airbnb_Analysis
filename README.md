@@ -28,6 +28,11 @@ This dataset is designed for **data cleaning practice** with the following key f
 ## 🙌 Acknowledgment
 This dataset is inspired by **Airbnb Inside**, but additional features and inconsistencies have been introduced for **data cleaning practice**. Original source: [Inside Airbnb](http://insideairbnb.com/explore/).
 
+
+# **Dashboard** 
+![Alt text](https://github.com/Mohamed-mosad-hadia/Smart_Mart_Sales/blob/main/Dashboard.jpg)
+
+
 ## 🏆 Get Involved!
 🚀 Ready to dive in? Fork the repository, clean the data, and share your insights! 
 
