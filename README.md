@@ -30,7 +30,7 @@ This dataset is inspired by **Airbnb Inside**, but additional features and incon
 
 
 # **Dashboard** 
-![Alt text](https://github.com/Mohamed-mosad-hadia/Smart_Mart_Sales/blob/main/Dashboard.jpg)
+![Alt text](https://github.com/Mohamed-mosad-hadia/Airbnb_Analysis/blob/main/Dashboard.jpg)
 
 
 ## 🏆 Get Involved!
